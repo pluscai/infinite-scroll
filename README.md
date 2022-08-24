@@ -3,6 +3,8 @@
 - 实现滚动至底部时，加载更多数据
 - infinite load data on the bottom use vue directive
 
+## 安装
+`npm install @sxcai/infinite-scroll`
 
 ## 用法
 ### 全局用法
