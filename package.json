@@ -1,13 +1,19 @@
 {
   "name": "@sxcai/infinite-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于vue指令的无限滚动 实现滚动至底部时，加载更多数据; infinite load data on the bottom use vue directive ",
   "main": "./index.js",
   "module": "./index.js",
   "scripts": {
     "release": "npm version patch && npm publish --access public"
   },
-  "keywords": ["infinite","scroll","infinite scroll","vue","directive"],
+  "keywords": [
+    "infinite",
+    "scroll",
+    "infinite scroll",
+    "vue",
+    "directive"
+  ],
   "author": "sxcai",
   "repository": {
     "type": "git",
